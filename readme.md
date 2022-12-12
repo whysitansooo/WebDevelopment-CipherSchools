@@ -1,3 +1,3 @@
-# Week 1
+# WebDevelopment challenge By CipherSchools
 
-Thia Folder Contains All The codes and Challanges from Week 1 of Cipher's School Web Dev.
+This Folder Contains All The codes and Challanges from Week 1 of Cipher's School Web Dev.
